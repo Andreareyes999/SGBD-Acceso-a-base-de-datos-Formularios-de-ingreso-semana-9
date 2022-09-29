@@ -1,0 +1,97 @@
+C:\Users\joser\source\repos\primer parcial - equipo 5\bin\Debug\primer parcial - equipo 5.exe.config
+C:\Users\joser\source\repos\primer parcial - equipo 5\bin\Debug\primer parcial - equipo 5.exe
+C:\Users\joser\source\repos\primer parcial - equipo 5\bin\Debug\primer parcial - equipo 5.pdb
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer parcial - equipo 8.csproj.AssemblyReference.cache
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer parcial - equipo 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Form1.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Compras.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Acercade.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Salir.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Crearcuenta.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.iniciarseccion.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Nuevospagina2.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Descuantospagina3.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Gatopagina4.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Perropagina5.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.juguetesgatopagina6.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Juguetesperropagina7.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Ayuda.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Cuadropagina9.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer_parcial___equipo_5.Properties.Resources.resources
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer parcial - equipo 8.csproj.GenerateResource.cache
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer parcial - equipo 8.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer parcial - equipo 5.exe
+C:\Users\joser\source\repos\primer parcial - equipo 5\obj\Debug\primer parcial - equipo 5.pdb
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csproj.AssemblyReference.cache
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Form1.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Compras.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Acercade.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Salir.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Crearcuenta.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.iniciarseccion.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Nuevospagina2.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Descuantospagina3.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Gatopagina4.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Perropagina5.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.juguetesgatopagina6.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Juguetesperropagina7.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Ayuda.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Cuadropagina9.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csproj.GenerateResource.cache
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\primer parcial - equipo 8\bin\Debug\primer parcial - equipo 8.exe.config
+C:\Users\joser\source\repos\primer parcial - equipo 8\bin\Debug\primer parcial - equipo 8.exe
+C:\Users\joser\source\repos\primer parcial - equipo 8\bin\Debug\primer parcial - equipo 8.pdb
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_8.Properties.Resources.resources
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.exe
+C:\Users\joser\source\repos\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.pdb
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\bin\Debug\formulario_de_ingreso.accdb
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\bin\Debug\primer parcial - equipo 8.exe.config
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\bin\Debug\primer parcial - equipo 8.exe
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\bin\Debug\primer parcial - equipo 8.pdb
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csprojAssemblyReference.cache
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Form1.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Compras.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Acercade.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Salir.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Crearcuenta.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.iniciarseccion.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Nuevospagina2.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Descuantospagina3.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Gatopagina4.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Perropagina5.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.juguetesgatopagina6.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Juguetesperropagina7.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Ayuda.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Cuadropagina9.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_8.Properties.Resources.resources
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csproj.GenerateResource.cache
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csproj.CoreCompileInputs.cache
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.exe
+C:\Users\EddBitx\Downloads\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.pdb
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\bin\Debug\formulario_de_ingreso.accdb
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\bin\Debug\primer parcial - equipo 8.exe.config
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\bin\Debug\primer parcial - equipo 8.exe
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\bin\Debug\primer parcial - equipo 8.pdb
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csproj.AssemblyReference.cache
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Form1.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Compras.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Acercade.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Salir.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Crearcuenta.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.iniciarseccion.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Nuevospagina2.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Descuantospagina3.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Gatopagina4.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Perropagina5.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.juguetesgatopagina6.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Juguetesperropagina7.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Ayuda.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_5.Cuadropagina9.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer_parcial___equipo_8.Properties.Resources.resources
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csproj.GenerateResource.cache
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.csproj.CoreCompileInputs.cache
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.exe
+C:\Users\joser\Desktop\semana 10\primer parcial - equipo 8\primer parcial - equipo 8\obj\Debug\primer parcial - equipo 8.pdb
